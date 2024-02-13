@@ -10,6 +10,8 @@ This project is a short demonstration showcasing my experience with deep learnin
   - `images/`: Testing images.
   - `segmentation/`: Ground-truth segmentation masks.
   - `tf_segmentation/`: Predicted segmentation masks using TensorFlow Keras.
+- `hw2_scripts/keras-deeplab-v3-plus/`:
+  - `imgs/`: result images.
 
 ## How to Run
 
@@ -26,7 +28,7 @@ python start.py
  
 ## Note to Recruiters
 
-This project serves as a showcase of my skills in deep learning, particularly in image segmentation using TensorFlow Keras. Feel free to explore the code in `FCN.py` and `start.py` to understand the implementation details.
+This project serves as a showcase of my skills in deep learning, particularly in image segmentation using TensorFlow Keras. Feel free to explore the code in `FCN.py` and `start.py` in `hw2_scripts/` to understand the implementation details.
 
 If you have any questions or would like to discuss the project further, please feel free to reach out.
 
